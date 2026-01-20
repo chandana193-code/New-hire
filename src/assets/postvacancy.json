@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "id": "4502",
+      "jobTitle": "fullstack developer",
+      "location": "chennai",
+      "companyName": "TVK Technology",
+      "experience": "1",
+      "positions": 2,
+      "jobDescription": "A full-stack developer builds and maintains both the front-end (what users see) and back-end (server, database logic) of websites and applications, handling everything from user interface design with HTML/CSS/JavaScript to database management (SQL/NoSQL) and server-side coding (Python, Node.js), effectively managing the entire development lifecycle for a seamless, functional product.",
+      "aboutCompany": "TVK Technology is a Chennai-based IT firm specializing in training, outsourcing, and digital transformation, offering job-ready skills in Cloud, DevOps, Data Analytics, Digital Marketing, and Software Development, with a strong focus on free internships for freshers and placement support for MNCs, aiming to bridge the industry skill gap"
+    }
+  ]
+}
