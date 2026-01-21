@@ -15,5 +15,7 @@ export class PostVacancyService {
     return this.http.post(this.apiUrl, data);
   }
 
-  
+  getJobs(): Observable<any[]> {
+    return this.http.get<any[]>(this.apiUrl);
+  }
 }
